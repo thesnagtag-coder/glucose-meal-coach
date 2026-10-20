@@ -1,0 +1,24 @@
+{
+ "name": "Glucose Meal Coach",
+ "short_name": "Glucose Coach",
+ "description": "Build glucose-friendly meals with the 5 hacks and track your readings.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#faf8f9",
+ "theme_color": "#b76e79",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
